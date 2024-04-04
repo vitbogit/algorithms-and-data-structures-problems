@@ -1,2 +1,3 @@
-# algorithms-and-data-structures-task
+# Tasks on algorithms and data structures
+
 Solving algorithms and data structures tasks from several sources
