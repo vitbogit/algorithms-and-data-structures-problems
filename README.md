@@ -9,4 +9,16 @@
 
 [3/195 added to GitHub](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
 
+[My profile on LeetCode](https://leetcode.com/vitbogit/)
+
+---
+
+### CodeRun
+
+- Easy - 1
+- Medium - 5
+- Hard - 0
+
+0 added to GitHub
+
 ---
