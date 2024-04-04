@@ -1,7 +1,7 @@
 # Tasks on algorithms and data structures
 ---
 
-#LeetCode
+## LeetCode
 
 - Easy - 93
 - Medium - 92
