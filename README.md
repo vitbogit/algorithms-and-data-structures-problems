@@ -1,5 +1,4 @@
 # Tasks on algorithms and data structures
----
 
 ## LeetCode
 
