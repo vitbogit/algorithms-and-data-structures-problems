@@ -1,4 +1,4 @@
-Link to LeetCode: https://leetcode.com/problems/two-sum/
+https://leetcode.com/problems/two-sum/
 
 # 1. Two Sum
 
@@ -36,4 +36,4 @@ Output: [0,1]
 Only one valid answer exists.
  
 
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+Follow-up: Can you come up with an algorithm that is less than O(n^2) time complexity?
