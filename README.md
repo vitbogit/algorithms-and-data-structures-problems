@@ -6,7 +6,7 @@
 - Medium - 92
 - Hard - 10
 
-[3/195 added to GitHub](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
+[My solutions on GitHub](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
 
 [My profile on LeetCode](https://leetcode.com/vitbogit/)
 
