@@ -18,10 +18,8 @@
 - Medium - 5
 - Hard - 0
 
-0 added to GitHub
-
 ---
 
-#Additional
+# Additional
 
 [My helper scripts](https://github.com/vitbogit/algorithms-and-data-structures-help-scripts)
