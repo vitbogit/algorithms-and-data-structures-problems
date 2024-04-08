@@ -2,6 +2,8 @@
 ---
 ### LeetCode - 🔥195🔥 problems solved
 
+> LeetCode is an international super popular online platform that provides problems intended for users to practice coding
+
 - Easy - 93
 - Medium - 92
 - Hard - 10
@@ -13,6 +15,8 @@
 ---
 
 ### CodeRun - 🔥7🔥 problems solved
+
+> Coderun is "russian LeetCode", developed by the largest Russian company - Yandex
 
 - Easy - 2
 - Medium - 5
