@@ -1,6 +1,6 @@
 # Algorithms and data structures problems
 ---
-### LeetCode - 195 problems solved
+### LeetCode - 🔥195🔥 problems solved
 
 - Easy - 93
 - Medium - 92
@@ -12,7 +12,7 @@
 
 ---
 
-### CodeRun - 7 problems solved
+### CodeRun - 🔥7🔥 problems solved
 
 - Easy - 2
 - Medium - 5
