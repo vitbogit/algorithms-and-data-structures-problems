@@ -2,7 +2,7 @@
 ---
 ### LeetCode - 🔥195🔥 problems solved
 
-> LeetCode is an international super popular online platform that provides problems intended for users to practice coding
+> LeetCode is an international super popular online platform that provides problems on algorithms and data structures
 
 - Easy - 93
 - Medium - 92
