@@ -12,9 +12,9 @@
 
 ---
 
-### CodeRun - 6 problems solved
+### CodeRun - 7 problems solved
 
-- Easy - 1
+- Easy - 2
 - Medium - 5
 - Hard - 0
 
