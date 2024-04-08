@@ -1,3 +1,25 @@
-# Tasks on algorithms and data structures
+# Algorithms and data structures problems
+---
+### LeetCode - 195 problems solved
 
-Solving algorithms and data structures tasks from several sources
+- Easy - 93
+- Medium - 92
+- Hard - 10
+
+[My solutions on GitHub](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
+
+[My profile on LeetCode](https://leetcode.com/vitbogit/)
+
+---
+
+### CodeRun - 6 problems solved
+
+- Easy - 1
+- Medium - 5
+- Hard - 0
+
+---
+
+# Additional
+
+[My helper scripts](https://github.com/vitbogit/algorithms-and-data-structures-help-scripts)
