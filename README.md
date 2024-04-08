@@ -16,7 +16,7 @@
 
 ### CodeRun - 🔥7🔥 problems solved
 
-> Coderun is "russian LeetCode", developed by the largest Russian company - Yandex
+> Coderun is "russian LeetCode", developed by one of the largest Russian IT companies - Yandex
 
 - Easy - 2
 - Medium - 5
