@@ -8,23 +8,21 @@
 - Medium - 92
 - Hard - 10
 
-- [🏆 My profile on LeetCode](https://leetcode.com/vitbogit/)
+[🏆 My profile on LeetCode](https://leetcode.com/vitbogit/)
 
-- [👀 My solutions on GitHub (right now not all)](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
+[👀 My solutions on GitHub (right now not all)](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/leetcode)
 
 ---
 
 ### CodeRun - 🔥7🔥 problems solved
 
-> Coderun is "russian LeetCode", developed by one of the largest Russian IT companies - Yandex
+> Coderun is "russian LeetCode", developed by one of the largest Russian IT companies - Yandex. You can't see other people's profiles yet.
 
 - Easy - 2
 - Medium - 5
 - Hard - 0
 
-- Profile 
-
-- [👀 My solutions on GitHub (right now not all)](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/coderun)
+[👀 My solutions on GitHub (right now not all)](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/coderun)
 
 ---
 
