@@ -1,6 +1,9 @@
 # Algorithms and data structures problems
+
+Everyting is solved with Golang, Python and C++ at once, as well as offering several different approaches to solving.
+
 ---
-### LeetCode - 🔥195🔥 problems solved
+### LeetCode - 🔥**195**🔥 problems solved
 
 > LeetCode is an international super popular online platform that provides problems on algorithms and data structures
 
@@ -14,15 +17,15 @@
 
 ---
 
-### CodeRun - 🔥7🔥 problems solved
+### CodeRun - 🔥**?**🔥 problems solved
 
-> Coderun is "russian LeetCode", developed by one of the largest Russian IT companies - Yandex. You can't see other people's profiles yet.
+> Coderun is "russian LeetCode", developed by one of the largest russian IT companies - Yandex. You can't see other CodeRun users\`s profiles yet, so I can`t live a link here, but you can still see my solutions on GitHub.
 
-- Easy - 2
-- Medium - 5
+- Easy - 1
+- Medium - 0
 - Hard - 0
 
-[👀 My solutions on GitHub (right now not all)](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/coderun)
+[👀 My solutions on GitHub](https://github.com/vitbogit/algorithms-and-data-structures-problems/tree/main/coderun)
 
 ---
 
