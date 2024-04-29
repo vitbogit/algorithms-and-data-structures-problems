@@ -1,6 +1,6 @@
 # Algorithms and data structures problems
 
-Everyting is solved with Golang, Python and C++ at once, as well as offering several different approaches to solving.
+Everyting is solved with Golang, Python and C++ at once, as well as offering several different approaches to solving. A brief description of the tasks and solution is attached
 
 ---
 ### LeetCode - 🔥**195**🔥 problems solved
