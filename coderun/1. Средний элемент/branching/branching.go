@@ -8,14 +8,14 @@ func main() {
 	if a < b {
 		if b <= c {
 			fmt.Print(b)
-		} else if a <= c { // b > c
+		} else if a <= c {
 			fmt.Print(c)
 		} else {
 			fmt.Print(a)
 		}
 	} else if a == b {
 		fmt.Print(a)
-	} else { // a > b
+	} else { // b < a
 		if a <= c {
 			fmt.Print(a)
 		} else if b <= c {
