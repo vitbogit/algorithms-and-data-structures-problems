@@ -3,7 +3,7 @@
 Everyting is solved with Golang, Python and C++ at once, as well as offering several different approaches to solving. A brief description of the tasks and solution is attached
 
 ---
-### LeetCode - 🔥**195**🔥 problems solved
+### LeetCode: 🔥**195**🔥 problems solved
 
 > LeetCode is an international super popular online platform that provides problems on algorithms and data structures
 
@@ -17,7 +17,7 @@ Everyting is solved with Golang, Python and C++ at once, as well as offering sev
 
 ---
 
-### CodeRun - 🔥**?**🔥 problems solved
+### CodeRun: 🔥**?**🔥 problems solved
 
 > Coderun is "russian LeetCode", developed by one of the largest russian IT companies - Yandex.
 
