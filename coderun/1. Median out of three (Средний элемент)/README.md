@@ -11,9 +11,9 @@ Consider three numbers a, b and c. Let's arrange them in ascending order. Which 
 - Time - *O(1)*
 - Space - *O(1)*
 
-Create slice from the given numbers and sort it using sort.Ints().
+Create slice from the given numbers and sort it using `sort.Ints()`.
 
-Создаем слайс из данных трех чисел и сортируем их стандартным методом sort.Ints().
+Создаем слайс из данных трех чисел и сортируем их стандартным методом `sort.Ints()`.
 
 ## Branching (Ветвления)
 
@@ -29,6 +29,6 @@ Consider every possible case using branching.
 - Time - *O(1)*
 - Space - *O(1)*
 
-Rearrange the numbers so that a <= b <= c.
+Rearrange the numbers so that `a <= b <= c`.
 
-Будем переставлять данные числа, пока не будет выполнено условие a <= b <= c.
+Будем переставлять данные числа, пока не будет выполнено условие `a <= b <= c`.
