@@ -58,11 +58,12 @@ func main() {
 
 	if len(path) > 0 {
 
-		answer := string(reverse(path[1:]))
-
-		fmt.Println(answer)
-
+		path = path[1:]
 	}
+
+	answer := string(reverse(path))
+
+	fmt.Println(answer)
 
 }
 
