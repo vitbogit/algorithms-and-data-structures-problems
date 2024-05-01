@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	// Parse matrix size
 	var N, M int
 	fmt.Scanf("%d %d\n", &N, &M)
 
