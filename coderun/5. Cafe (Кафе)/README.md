@@ -31,3 +31,5 @@ It is worth noting that additional rows and columns are created for dp, all elem
 Ответ - минимальное число в последней строке dp. Индекс ответа - это k1. С помощью backtracking`а вернемся назад, посчитав k2 и отметив дни, в которые тратились купоны.
 
 Стоит отметить, для dp создаются дополнительные строки и столбцы, все элементы помечаются бесконечностями, а `dp[0][0]=0`.
+
+https://studylib.ru/doc/127819/olimpiady-shkol._nikov-po-informatike-gotovimsya-k-olimpiade
