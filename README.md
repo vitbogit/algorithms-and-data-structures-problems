@@ -17,12 +17,12 @@ Everyting is solved with Golang, Python and C++ at once, as well as offering sev
 
 ---
 
-### CodeRun: 🔥3🔥 problems solved
+### CodeRun: 🔥4🔥 problems solved
 
 > Coderun is "russian LeetCode", developed by one of the largest russian IT companies - Yandex.
 
 - Easy - 1
-- Medium - 2
+- Medium - 3
 - Hard - 0
 
 >  You can't see other CodeRun users\`s profiles yet, so I can`t live a link here, but you can still see my solutions on GitHub.
